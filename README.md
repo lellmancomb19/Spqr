@@ -191,4 +191,4 @@ This repository serves as the official landing page for SPQR. The software is di
 **Get the most recent version of SPQR today!**
 
 ---
-**Last updated:** 2026-11-13 11:39:36 UTC
+**Last updated:** 2026-11-13 18:51:31 UTC
